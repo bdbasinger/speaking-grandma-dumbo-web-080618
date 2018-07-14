@@ -22,3 +22,5 @@ end
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma("I LOVE YOU GRANDMA!")
+speak_to_grandma("Hey Grandma")
+speak_to_grandma("Have you ridden in a car lately?")
